@@ -1,6 +1,6 @@
 # Presentation
 <h3 align="center">Hi, i'm Angélique 😸 </h3>
-<h3 align="center">French aspiring web developer</h3>
+<h3 align="center">a French aspiring web developer</h3>
 
 
 ## Bootcamp 🎓
