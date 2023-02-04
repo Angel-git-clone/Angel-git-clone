@@ -18,7 +18,7 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61D)
 
-# Les Statistiques 📈
+# Statistics 📈
 
 ![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-git-clone&show_icons=true&theme=tokyonight)
 
