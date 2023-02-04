@@ -40,7 +40,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-#### Contact 
+## Contact 
 <p>
     <a href="https://linkedin.com/in/angélique-precheur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angélique-precheur" height="30" width="40" /></a>
     <a href="https://discord.gg/Angel_panda#5407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Angel_panda#5407" height="30" width="40" /></a>
